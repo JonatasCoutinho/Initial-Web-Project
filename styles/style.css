@@ -64,7 +64,7 @@ span {
 
 .presentation__photo {
     width: 50%;
-    aspect-ratio: 1 / 1;
+    align-self: flex-start;
     border-radius: 5%;
     border: 5px dashed var(--tertiary-color);
 }
