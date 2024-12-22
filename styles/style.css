@@ -160,6 +160,6 @@ span {
     }
 
     .presentation__content {
-        width: auto; 
+        width: 90%; 
     }
 }
