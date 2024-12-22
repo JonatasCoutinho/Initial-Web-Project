@@ -156,7 +156,7 @@ span {
 
     .presentation {
         flex-direction: column-reverse;
-        padding: 5% 0% 5% 5%;
+        padding: 5% 5% 5% 5%;
     }
 
     .presentation__content {
