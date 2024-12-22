@@ -64,7 +64,6 @@ span {
 
 .presentation__photo {
     width: 50%;
-    padding: 10px;
     border-radius: 5%;
     border: 5px dashed var(--tertiary-color);
 }
